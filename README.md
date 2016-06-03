@@ -1,0 +1,2 @@
+# SKOLA-FILES
+school projects.
