@@ -1,2 +1,2 @@
 # SKOLA-FILES
-school projects.
+This is the place for storing school projects.
